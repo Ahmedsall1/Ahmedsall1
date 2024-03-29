@@ -3,7 +3,7 @@
 <h3> I'm Student in Firat University </h3>
 
 
-<p align='center'>
+<p>
   <a href="https://github.com/Ahmedsall1/Ahmedsall1">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>&nbsp;&nbsp;
