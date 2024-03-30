@@ -1,6 +1,6 @@
 <h1>Hi there 👋 I'm Ahmed </h1>
 
-<h3> I am a student studying software engineering 👨‍💻 at Firat University </h3>
+<h3> I'm a student of software engineering at Firat University 👨‍💻 </h3>
 
 <p>
   <a href="https://github.com/Ahmedsall1/Ahmedsall1">
