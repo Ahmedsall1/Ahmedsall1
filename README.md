@@ -12,3 +12,5 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+
+<h3> <a src="https://github.com/Ahmedsall1/Ahmedsall1/blob/main2/CV.pdf">My CV </a></h3>
