@@ -1,5 +1,3 @@
-"# Ahmedsall1" 
-
 <h1>Hi there 👋 I'm Ahmed </h1>
 
 <h3> I'm a student of software engineering at Firat University 👨‍💻 </h3>
@@ -12,5 +10,4 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-
-<h3> <a src="https://github.com/Ahmedsall1/Ahmedsall1/blob/main2/CV.pdf" >My CV </a>. </h3>
+<h1><a href="https://github.com/Ahmedsall1/Ahmedsall1/blob/main2/CV.pdf" > CV </a> </h1>
