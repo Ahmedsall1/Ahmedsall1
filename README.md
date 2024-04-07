@@ -11,3 +11,5 @@
   </a>&nbsp;&nbsp;
 </p>
 <h1><a href="https://github.com/Ahmedsall1/Ahmedsall1/blob/main2/CV.pdf" > CV </a> </h1>
+
+<img src="https://github.com/Ahmedsall1/Ahmedsall1/blob/main2/CV.png">
