@@ -11,8 +11,6 @@
   </a>&nbsp;&nbsp;
 </p>
 <h1><a href="https://github.com/Ahmedsall1/Ahmedsall1/blob/main/AHMED_SALIH_CV.pdf" > CV </a> </h1>
-<<<<<<< HEAD
-=======
+
 
 <img src="https://github.com/Ahmedsall1/Ahmedsall1/blob/main/CV.jpg">
->>>>>>> origin/main
