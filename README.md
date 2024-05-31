@@ -10,9 +10,9 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-<h1><a href="https://github.com/Ahmedsall1/Ahmedsall1/blob/main2/CV.pdf" > CV </a> </h1>
+<h1><a href="https://github.com/Ahmedsall1/Ahmedsall1/blob/main/AHMED_SALIH_CV.pdf" > CV </a> </h1>
 <<<<<<< HEAD
 =======
 
-<img src="https://github.com/Ahmedsall1/Ahmedsall1/blob/main2/CV.png">
+<img src="https://github.com/Ahmedsall1/Ahmedsall1/blob/main/CV.jpg">
 >>>>>>> origin/main
