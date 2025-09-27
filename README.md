@@ -48,7 +48,7 @@ I build API-driven platforms and cross-platform mobile solutions with focus on *
 - 🔐 **Network Security (Udemy)** – CEHI 01 & 02  
 - ☕ **Java Network Programming (Udemy)** – CJNP+ TCP/IP  
 
-## 🌍 Languages
-Arabic (Native) | Turkish (C1) | English (B2)  
+⚠️ Note: Contribution graph shows an inactive period in 2024 due to a temporary GitHub account restriction. During this time, I continued development work on a secondary account until my main account was restored.
+
 
 
